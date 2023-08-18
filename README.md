@@ -83,7 +83,7 @@ Please follow the instruction below to install it and run the experiment demo.
 If you use the code in your research, please cite:
 ```bibtex
     @inproceedings{peng2023contrastive,
-    author={Ru, Peng and Qiuyang, Duan},
+    author={Ru Peng, Qiuyang Duan, Haobo Wang, Jiachen Ma, Yanbo Jiang, Yongjun Tu, Xiu Jiang, Junbo Zhao},
     title     = {CAME: Contrastive Automated Model Evaluation},
     booktitle = {Proc. ICCV},
     year      = {2023},
