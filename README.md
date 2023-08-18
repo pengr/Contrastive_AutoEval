@@ -1,5 +1,5 @@
 # CAME: Contrastive Automated Model Evaluation [[Paper]](https://arxiv.org/abs/2007.02915)
-![](http://weijiandeng.xyz/AutoEval/figs/fig1.png)
+![](https://github.com/pengr/Contrastive_AutoEval/blob/master/Our_Model.png)
 
 
 ## PyTorch Implementation
