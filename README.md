@@ -1,4 +1,5 @@
-# CAME: Contrastive Automated Model Evaluation [[Paper]](coming soon)
+# CAME: Contrastive Automated Model Evaluation 
+## [[Paper]](https://arxiv.org/abs/2308.11111)
 ![](https://github.com/pengr/Contrastive_AutoEval/blob/master/Our_Model.png)
 
 
