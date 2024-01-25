@@ -82,12 +82,13 @@ Please follow the instruction below to install it and run the experiment demo.
 ## Citation
 If you use the code in your research, please cite:
 ```bibtex
-    @inproceedings{peng2023contrastive,
-    author={Ru Peng, Qiuyang Duan, Haobo Wang, Jiachen Ma, Yanbo Jiang, Yongjun Tu, Xiu Jiang, Junbo Zhao},
-    title     = {CAME: Contrastive Automated Model Evaluation},
-    booktitle = {Proc. ICCV},
-    year      = {2023},
-    }
+    @inproceedings{peng2023came,
+    title={Came: Contrastive automated model evaluation},
+    author={Peng, Ru and Duan, Qiuyang and Wang, Haobo and Ma, Jiachen and Jiang, Yanbo and Tu, Yongjun and Jiang, Xiu and Zhao, Junbo},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={20121--20132},
+    year={2023}
+}
 ```
 
 ## License
